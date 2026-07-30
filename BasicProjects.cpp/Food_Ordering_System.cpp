@@ -215,30 +215,6 @@ case 3:
 }
 
 
-
-// int _menu(){
-//   switch (order){
-// case 1:
-//   Pizza pizza;
-//   pizza.pizza_menu();
-//   int order = pizza.in_pizza();
-  
-//   break;
-// case 2:
-//   Pasta pasta;
-//   pasta.pasta_menu();
-//   int order =  pasta.in_pasta();
-//   break;
-// case 3:
-//   Burger burger;
-//   burger.burger_menu();
-//   int order = burger.in_burger();
-//   break;
-// return order;
-// }
-// }
-
-
 int _menu(int o){
 int quan,more , order;
    switch (o){
